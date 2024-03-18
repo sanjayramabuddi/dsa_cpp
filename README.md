@@ -1,9 +1,8 @@
 git commands
 
 …or create a new repository on the command line
-echo "# dsa_cpp" >> README.md
 git init
-git add README.md
+git add (file_name)
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/sanjayramabuddi/dsa_cpp.git
